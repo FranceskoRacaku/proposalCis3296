@@ -10,7 +10,7 @@ For this project I have an idea to create a program which can create uml diagram
 
 # Revelant Technology
 
-JAVA 
+**JAVA 
 JAVAFX
 FXML
 git repo
