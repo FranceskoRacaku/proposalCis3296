@@ -1,1 +1,4 @@
-# proposalCis3296
+# Francesko Racaku
+# Proposal Project
+# CIS 3296 
+
