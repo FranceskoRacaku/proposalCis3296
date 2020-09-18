@@ -24,11 +24,13 @@ The idea of doing this project start with focusing first on generating class dia
 
 This project will mainyly focus on the following goals:
 
-* Class Diagrams
+* Getting familiar with creating Class Diagrams
+
+* Project Management
 
 * 
 
 
 # Proposed Contribution
 
-As soon as I saw this idea I literally liked it a lot because it will be very helpful having an UML Diagram ready parallel in working with a certain program. My contribution in this will be since it's not mentioned to make it more complete to add an option where you can write description of each attribute if its needed.
+Looking at github of the author, the code is undeveloped so the good idea is to connect with him and see if he has any updated code or work to it from scrap. As soon as I saw this idea I literally liked it a lot because it will be very helpful having an UML Diagram ready parallel in working with a certain program. My contribution in this will be to help with adding attributes and methods.
