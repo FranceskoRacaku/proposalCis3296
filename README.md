@@ -33,4 +33,4 @@ This project will mainyly focus on the following goals:
 
 # Proposed Contribution
 
-Looking at github of the author, the code is undeveloped so the good idea is to connect with him and see if he has any updated code or work to it from scrap. As soon as I saw this idea I literally liked it a lot because it will be very helpful having an UML Diagram ready parallel in working with a certain program. My contribution in this will be to help with adding attributes and methods.
+Looking at github of the author, the code is undeveloped so the good idea is to connect with him and see if he has any updated code or work to it from scrap. As soon as I saw this idea I literally liked it a lot because it will be very helpful having an UML Diagram ready parallel in working with a certain program. My contribution in this will be to help with adding attributes and methods, for example, when a class is interface to be represented as interface.
