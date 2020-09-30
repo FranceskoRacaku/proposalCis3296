@@ -32,4 +32,4 @@ This project will mainyly focus on the following goals:
 
 # Proposed Contribution
 
-Looking at github of the author, the code is not fully developed so the good idea is to connect with him and see if he has any updated code or work. As soon as I saw that it caught my eyes, even tho there are plenty websited which create UML Diagrams, but having that done in java is a good idea. Since this is created in German Language my contribution in this will be to help with adding extra languages so everyone could be able to use it.
+Looking at github of the author, the code is not fully developed so the good idea is to connect with him and see if he has any updated code or work. As soon as I saw that it caught my eyes, even tho there are plenty websites which create UML Diagrams, but having that done in java is a good idea. Since this is created in German Language my contribution in this will be to help with adding extra languages so everyone could be able to use it.
