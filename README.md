@@ -2,23 +2,20 @@
 # Proposal Project
 # CIS 3296 
 
-# UML2.5 version java / Description
+# Shortest Path Project
 
+For this project I would like to create a program which will ask the user to enter two states in USA and it will find the shortest path to get there.
 
-For this project I found an open source program which can create uml diagrams . This program should be able to generate the diagrams in all possible codes (php, java, C etc).
+I am thinking to do that by creating a graph of cities in the United States with links to the other cities. Each city will be a vertex in the graph and each link between cities will be an edge in the graph. The cities will be read into array from a CSV data files.
 
-Having an UML Diagram ready while you build the program up, is always helpful and makes programming easier and more understandable.
+The output of this project should be something like:
+It will ask the user to put the name of a city, which will be the starting point, and then it will ask the name of second city which will be the destination.
 
-The idea of doing this project start with focusing first on generating class diagrams with coding in Java. Then it continues in object diagram, composition structure diagram etc, more to find in here https://github.com/Harry055/UML2.5.
+This project will be a good choice in getting familiar how the google map, maps or other programs make it possible to find the fastest way to get to the required destination. Also more practice using JAVA, since I like programming in java.
 
 # Revelant Technology
 
 - JAVA 
-- JAVAFX
-- FXML
-- git repo
-- Gradle
-- Scene Builder
 
 # Educational Goals
 
@@ -27,9 +24,3 @@ This project will mainyly focus on the following goals:
 * Getting familiar with creating Class Diagrams
 
 * Project Management
-
-
-
-# Proposed Contribution
-
-Looking at github of the author, the code is not fully developed so the good idea is to connect with him and see if he has any updated code or work. As soon as I saw that it caught my eyes, even tho there are plenty websites which create UML Diagrams, but having that done in java is a good idea. Since this is created in German Language my contribution in this will be to help with adding extra languages so everyone could be able to use it.
