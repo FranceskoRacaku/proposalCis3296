@@ -15,12 +15,19 @@ This project will be a good choice in getting familiar how the google map, maps 
 
 # Revelant Technology
 
-- JAVA 
+•	JAVA
+•	JavaScript
+•	CSS
+•	HTML
+
 
 # Educational Goals
 
 This project will mainyly focus on the following goals:
 
-* Getting familiar with creating Class Diagrams
+•	Getting familiar with creating Class Diagrams
+•	Debugging
+•	Project Management
+•	Teamwork
+•	Getting familiar with GUI
 
-* Project Management
